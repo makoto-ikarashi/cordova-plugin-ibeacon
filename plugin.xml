@@ -82,6 +82,7 @@
 
         <framework src="CoreBluetooth.framework" />
         <framework src="CoreLocation.framework" />
+        <framework src="UserNotifications.framework" />
 
     </platform>
 
